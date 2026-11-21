@@ -1,4 +1,4 @@
-# OTOWave Project Brief
+# OTOwave Project Brief
 ## Cross-Platform Mobile Audio Player with React Native
 
 ### Project Overview
@@ -103,7 +103,7 @@ export interface AudioItem {
 ## Phase Breakdown
 
 ### Phase 1: Setup & Background Service
-1. Initialize OTOWave project with Expo + TypeScript
+1. Initialize OTOwave project with Expo + TypeScript
 2. Install dependencies: `react-native-track-player`, `zustand`, `react-native-mmkv`, `react-native-reanimated`, `react-native-gesture-handler`
 3. Configure native permissions:
    - **iOS:** Add `"audio"` to `UIBackgroundModes` in `app.json` or `Info.plist`
